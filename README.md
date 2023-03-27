@@ -1,2 +1,7 @@
-# git-tutorial
+# TODO TITLE
+
 Git Tutorial
+
+## TODO DESCRIPTION
+
+## NEXT STEPS
