@@ -1,6 +1,6 @@
 # Introduction to Git
 
 ## Description
-TODO: do the description body
 
+This is a test repository, take it as it is.
 ## NEXT STEPS
