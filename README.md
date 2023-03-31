@@ -1,6 +1,4 @@
-# TODO TITLE
-
-Git Tutorial
+# Introduction to Git
 
 ## TODO DESCRIPTION
 
